@@ -2,12 +2,6 @@ yadriksha
 uprety
 this shouldnt be on master
 writing this on remote target
-<<<<<<< HEAD
-=======
 one
 two
-<<<<<<< HEAD
->>>>>>> 1347826 (ss)
-=======
 three
->>>>>>> c50040c (zd)
